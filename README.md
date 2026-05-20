@@ -33,11 +33,13 @@
 - TypeScript Basics
 
 ---
-## 📊 GitHub Stats
 
-![Amee's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammed-ameen-dev&show_icons=true&theme=tokyonight)
+## 🚀 Focus
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-ameen-dev&layout=compact&theme=tokyonight)
+- Building Full Stack Projects
+- Learning Advanced React & Django
+- Exploring AI Integration
+- Improving Problem Solving & DSA
 
 ## 🌐 Portfolio
 
