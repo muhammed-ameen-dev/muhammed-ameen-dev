@@ -1,4 +1,4 @@
-# Hi, I'm Amee 👋
+# Hi, I'm Ameen 👋
 
 💻 Full Stack Developer  
 🚀 Python | React | Django | JavaScript  
