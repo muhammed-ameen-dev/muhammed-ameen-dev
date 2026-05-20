@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Amee 👋
 
-<!--
-**muhammed-ameen-dev/muhammed-ameen-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer  
+🚀 Python | React | Django | JavaScript  
+☁️ Cloud & AI Enthusiast  
+🎯 Currently building real-world projects and improving problem-solving skills
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- Python
+- JavaScript
+- React
+- Django
+- HTML/CSS
+- Git & GitHub
+- Azure Basics
+- AI Tools & Prompting
+
+---
+
+## 📚 Currently Learning
+
+- Advanced React
+- Django REST Framework
+- AI Integration in Web Apps
+- TypeScript Basics
+
+---
+
+## 🌐 Portfolio
+
+[Your Portfolio Link Here]
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/muhammed-ameen-a-g
+- Email: muhammedameen.one@gmail.com
